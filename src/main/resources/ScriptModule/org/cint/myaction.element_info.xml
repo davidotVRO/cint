@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Exported from [server]</comment>
+<entry key="categoryPath">org.cint</entry>
+<entry key="name">myaction</entry>
+<entry key="type">ScriptModule</entry>
+<entry key="id">910e075b-b26a-4993-a73f-8d7d90ab64c1</entry>
+</properties>
