@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dunes-script-module name="myaction" result-type="void" api-version="6.0.0" id="910e075b-b26a-4993-a73f-8d7d90ab64c1" version="0.0.0" allowed-operations="vef">
-  <param n="dn" t="string"></param>
+  <param n="dn" t="string"><![CDATA[]]></param>
   <script encoded="false"><![CDATA[var paramsArray = new Array();
 if(dn!=null && dn!="")
 	paramsArray.push("dn=" + dn);]]></script>
