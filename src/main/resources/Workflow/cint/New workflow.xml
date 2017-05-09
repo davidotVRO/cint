@@ -21,7 +21,8 @@
   </workflow-item >
   <workflow-item  name="item1" out-name="item3" throw-bind-name="errorCode" type="task">
     <display-name><![CDATA[Get URL]]></display-name>
-    <script encoded="false"><![CDATA[url=ucsHost+":"+port;]]></script>
+    <script encoded="false"><![CDATA[//Auto generated script, cannot be modified !
+url=ucsHost+":"+port;]]></script>
     <in-binding>
       <bind name="ucsHost" type="string" export-name="ucsHost"></bind>
       <bind name="port" type="string" export-name="port"></bind>
